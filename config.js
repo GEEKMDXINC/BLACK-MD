@@ -4,7 +4,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 //═══════[Required Variables]════════\\
 global.owner = process.env.OWNER_NUMBER || "2347039570336"  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
-global.mongodb = process.env.MONGODB_URI || "mongodb://uzkczx40erwz0pohr5b2:smjYeuitaGKhvtwpim7@bnrg0pit9dldcipgv7lz-mongodb.services.clever-cloud.com:2133/bnrg0pit9dldcipgv7lz"
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Etoundi:Benzimen@cluster0.lbapl7i.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'excelottah6@gmail.com'
 global.github = 'https://github.com/excelottah6/BLACK-MD'
