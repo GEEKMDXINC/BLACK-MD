@@ -1,188 +1,162 @@
-</p>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-  <a href="https://chat.whatsapp.com/HBCXDp3HIb8GzHBBg6MplO)">
-    <img alt=Support height="550" src="https://telegra.ph/file/38b2287de9e0f6b8ecab1.jpg"> 
-    </p>
-<h1 align="center"> BLACK-MD MULTI DEVICE BOT
-</h1>
-<p align="center"> 
- ! I Am A Whatsapp Bot Created By sam pandey and recoded by  EXCEL To Do Everything That Is Possible On WhatsApp Based On WhatsApp Multi Device(MD) Support.
-
-  <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=THIS IS+BLACK-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+EXCEL;PUBLIC+RELESED; COMING+SOON...;TEAM BLACK-MD." alt="Typing SVG" /></a>
-  </p>
-  <br>
-
+    <img src="https://telegra.ph/file/37df69a78afb6e010282d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
+
+## PENTING
+
+> **Warning**: Jangan Memperjual Belikan Script Ini.
+
+
+<h1 align="center">ElainaBOT - MD</h1>
 
 <p align="center">
-  <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/excelottah6/BLACK-MD" />
-  </a>
-  
-  
-
+ <a href="#"><img title="ElainaBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{excelottah6}/count.svg" alt="excelottah6 :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/FixEhA9BNH46sYyLOAqCps" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
 
----
-# ```Scan QR Code```
+---------
 
-1. ***Get [SESSION-ID](https://replit.com/@Excelottah/BLACK-Md) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
---- 
-# ```Fork Repo```
-2. ***Click [FORK](https://github.com/excelottah6/BLACK-MD/fork)***
+### a little about this bot
+- ✔️ | Simple
+- ✔️ | Menfess
+- ✔️ | AntiCall
+- ✔️ | Nsfw 
+- ✔️ | Sticker 
+- ✔️ | Kerang Ajaib 
+- ✔️ | Quotes
+- ✔️ | Anime 
+- ✔️ | Premium 
+- ✔️ | Tools 
+---------
  
----
+## ```USER RAILWAY```
 
-# THIS TIME  DEPLOY 
-# ```Deployments METHODS```
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
- <details close>
-<summary>Click to choose your favourite platform to Deploy</summary>
- 
-<br><br>   
- 
-   
-<h4 align="center"> Deploy on Repl.it
-</h4>
+## ```USER REPLIT```
+[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://repl.it/github/ImYanXiao/Elaina-MultiDevice)
 
-<p align="center" >
-    <a href="https://repl.it/github/excelottah6/BLACK-MD">
-    <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
-    </a>
-</p>
+---------
+## FOR WINDOWS/RDP USER 💻
 
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
+Install this tool first before running the script
 
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
+* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
+----------
 
-<br>
- 
-<h4 align="center"> Deploy on CodesSpace
-</h4>
+## FOR VPS USER
 
-</p>
+* apt update && apt upgrade -y
+* apt install nodejs imagemagick ffmpeg -y
+* node -v 
+* if the version is still under 17, use this step
+* curl -s https://deb.nodesource.com/setup_19.x | sudo bash
+* apt-get install -y nodejs
 
-<p align="center" >
-    <a href="https://github.com/codespaces/new">
-    <img src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=red&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces" >
-    </a>
+----------
 
-</p>
+```bash
+git clone https://github.com/ImYanXiao/Elaina-MultiDevice
+cd Elaina-MultiDevice
+npm install
+npm update
+```
 
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
+---------
 
+## Run ⏳
 
+```bash
+node .
+```
 
-<br>
- 
-<h4 align="center"> Deploy on Heroku
-</h4>
+---------
 
-</p>
+## ```Arguments node . [--options] [<session name>]```
 
-<p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/excelottah6/BLACK-MD">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
-    </a>
+## `--pconly`
+* If that chat not from private bot, bot will ignore
 
-</p>
+## `--gconly`
+* If that chat not from group, bot will ignore
 
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
+## `--swonly`
+* If that chat not from status, bot will ignore
 
+## `--prefix <prefixes>`
+* `prefixes` are seperated by each character
+Set prefix
 
+## `--server`
+* Used for [heroku](https://heroku.com/) or scan through website
 
-<br>
+## `--restrict`
+* Enables restricted plugins (which can lead your number to be **banned** if used too often)
+* Group Administration `add, kick`
 
+## `--img`
+* Enable image inspector through terminal
 
-<h4 align="center"> Deploy on RailWay
-</h4>
-  
-<p align="center">
-    <a href="https://railway.app/new">
-    <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
-    </a>
-    
-</p>
+## `--autoread`
+* If enabled, all incoming messages will be marked as read
 
-<p align="center" >
-    <br>
-    __________________________
-    <br>
+## `--nyimak`
+* No bot, just print received messages and add users to database
 
-</p>
+## `--test`
+* **Development** Testing Mode *
 
+## `--self`
+* **Only Owner & Bot** 
 
+---------
 
-<br>
+## ```How To Customise Message Display```
+```js
+// Syntax
+conn.sendButton(
+      jid, // jid of the user to send the message to
+      text, // text to send
+      foooter, // footer to send
+      buffer, // buffer to send (optional), if you want to send button image, location, etc
+      buttons, // buttons to send, example [['text1', 'id1'], ['text2', 'id2']]
+      quoted, // quoted message to send (optional)
+      options // options to send, example { asLocation: true }
+)
 
-<h4 align="center"> Deploy on Mogenius
-</h4>
-  
-<p align="center">
-    <a href="https://studio.mogenius.com/">
-    <img src="https://www.cloudflare.com/static/90073b1e5bd8a0765640a20febb3dc22/mogenius_logo_quer.png" alt="Deploy on Mogenius" width="170px">
-    </a>
-    
-</p>
+// example 
+conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
+      ['Hello', 'hello'], ['Bye', 'bye']
+])
+// example button location
+conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/BochilGaming', 
+      [['Hello', 'hello'], ['Bye', 'bye']], 
+      null, { asLocation: true }
+)
+```
+---------
 
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
+### 📮 S&K
+1. Not For Sale
+2. Don't forget give star this repo
+3. Don't use this repository wrong!
+4. If you have problem chat me in owner number
 
-<br>
+---------
 
-<h4 align="center"> Deploy on Uffizzi
-</h4>
-  
-<p align="center">
-    <a href="https://www.uffizzi.com/">
-    <img src="https://i.ibb.co/Y29Kv4X/Screenshot-195.png" alt="Deploy on Uffizzi" width="125px">
-    </a>
-    
-</p>
-
-<br>
-
-<h4 align="center"> Deploy on BoxMineWorld
-</h4>
-  
-<p align="center">
-    <a href="https://dash.boxmineworld.com/">
-    <img src="https://graph.org/file/2af0e67f320986702ea24.jpg" alt="Deploy on Boxmineworld" width="175px">
-    </a>
-    <br>
-
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-
-
-</details>
-
-<br>
+## ```Thanks to ✨```
+* [`Allah SWT`]
+* [`My parents`]
+* [`All Friends`]
+* [`All Contributors`]
+* [`All Creator Bot`]
+* [`Whiskeysockets/Baileys`](https://github.com/WhiskeySockets/Baileys)
+* [`Nurutomo`](https://github.com/Nurutomo)
+* [`BochilGaming`](https://github.com/bochilgaming)
+* [`Fokus ID`](https://github.com/Fokusdotid) 
